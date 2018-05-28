@@ -1,4 +1,4 @@
-This is a class project is computational stats class.
+## Reconstruct faces using PCA and apply network analysis using similarity metric
 
 Author: Qian Li
 
